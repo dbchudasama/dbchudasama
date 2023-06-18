@@ -2,7 +2,7 @@
 - 👀 I’m a Data, Software & DevOps Engineer -> Azure, .NET, Scala & Python
 - 🌱 I’m currently developing my Python skills
 - 💞️ I’m looking to collaborate on ... feel free to ask :)
-- 📫 How to reach me -> LinkedIn: Divyesh Chudasama / Email: dbchudasama@gmail.com
+- 📫 How to reach me -> LinkedIn: Divyesh B Chudasama / Email: dbchudasama@gmail.com
 
 <!---
 dbchudasama/dbchudasama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
