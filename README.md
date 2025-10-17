@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dbchudasama
-- 👀 I’m a Solutions Architect -> Azure & AWS
+- 👀 I’m a Technical Architect -> Azure & AWS
 - 🌱 I’m currently developing my Python skills
 - 💞️ I’m looking to collaborate on ... feel free to ask :)
 - 📫 How to reach me -> LinkedIn: Divyesh B Chudasama / Email: dbchudasama@gmail.com
